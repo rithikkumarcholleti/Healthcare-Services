@@ -86,7 +86,9 @@ Additional Features: Add new components as needed and incorporate them into the 
 
 Screenshots
 ![Screenshot 2024-09-24 111853](https://github.com/user-attachments/assets/1bc13950-fa58-44b4-994c-c721db0d9dff)
-
+![Screenshot 2024-09-24 111951](https://github.com/user-attachments/assets/d3cdfb1d-e6af-431a-bd1a-d31d21fe8524)
+![Screenshot 2024-09-24 112017](https://github.com/user-attachments/assets/4559839a-6c0b-4c97-9344-e8b51039342a)
+![Screenshot 2024-09-24 112032](https://github.com/user-attachments/assets/b2d48b79-10f9-4355-b2af-2e0af5120617)
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more information.
